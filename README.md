@@ -11,7 +11,7 @@ San Francisco native and software engineer. Likes to play rugby and read. Curren
 My gentoo linux setup and my home server!
 
 ### Fun fact:
-I'm fluent in Spanish. Preguntame como lo se!
+I'm fluent in Spanish. Preguntame algo!
 
 
 
