@@ -1,5 +1,5 @@
 ## Hi! I'm John
-San Francisco native and software engineer. Likes to play rugby and read. Currently reading Lonesome Dove by Larry McMurtry and Slapstick by Kurt Vonnegut.
+I'm a born and raised San Franciscan and software engineer. I like to play rugby and read.
 
 ### I'm currently working on:
 * workout-xlsx2html - my workout spreadsheet to html processor
